@@ -1,3 +1,4 @@
+package practice2021_10_8;
 import java.util.Scanner;
 public class ComputeAreaWithConsoleInput {
 
